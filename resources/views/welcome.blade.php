@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    BIT PRoject 2020
                 </div>
 
                 <div class="links">
